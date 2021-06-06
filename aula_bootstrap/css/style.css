@@ -1,0 +1,23 @@
+.navbar {
+    background-color: beige;
+}
+
+.quem-somos{
+    background-color: black;
+    color: white;
+    font-size: 24px;
+
+}
+
+.padding{
+    padding: 30px;
+}
+
+.quem-somos img {
+    border-radius: 50%;
+}
+
+.carrosel img {
+    width: 400px;
+    padding: 50px;
+}
